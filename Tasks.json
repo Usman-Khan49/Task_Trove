@@ -15,5 +15,10 @@
             "Description": "Buy Groceries",
             "Status": false
         }
-    ]
+    ],
+    "User": {
+        "username": "Khawar",
+        "xp": 0,
+        "rank": "Novice"
+    }
 }
